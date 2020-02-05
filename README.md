@@ -14,6 +14,11 @@ Compilation of resources on the subject of processing graphs and other irregular
       10. **[Deep Generative Models for Graphs](https://www.youtube.com/watch?v=yFLiiK8c9CU)**  
       11. **[Link Analysis: PageRank](https://www.youtube.com/watch?v=-zq9-6RbKZc)**  
 
+# Papers
+## Meta
+[A Comprehensive Survey on Graph Neural Networks - 3 Jan 2019](https://arxiv.org/abs/1901.00596v1)
+
+
 # Implementations
 * [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric)
 * [Microsoft Research - TF Graph Neural Network Samples](https://github.com/microsoft/tf-gnn-samples)
