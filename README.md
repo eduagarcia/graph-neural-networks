@@ -4,7 +4,7 @@ Compilation of resources on the subject of processing graphs and other irregular
 # Videos
 
 * [Microsoft Research - Graph neural networks: Variations and applications](https://www.youtube.com/watch?v=cWIeTMklzNg)
-* [Machine Learning with Graphs - CS224W - Stanford](http://web.stanford.edu/class/cs224w/)  
+* [Machine Learning with Graphs - CS224W 2019 - Stanford - incomplete](http://web.stanford.edu/class/cs224w/) / [2018 - complete](http://snap.stanford.edu/class/cs224w-2018/)   
       1. [Introduction; Structure of Graphs](https://www.youtube.com/watch?v=q-HH91dnCxw)  
       2. [Properties of Networks and Random Graph Models](https://www.youtube.com/watch?v=t8u1W50gdlQ)  
       3. [Motifs and Structural Roles in Networks](https://www.youtube.com/watch?v=NPhPfs061cw)  
